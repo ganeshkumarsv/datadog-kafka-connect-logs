@@ -12,6 +12,8 @@ besides a [Kafka Broker](https://www.confluent.io/what-is-apache-kafka/).
 2. Java 8 and above.
 3. Confluent Platform 4.0.x and above (optional).
 
+
+
 To install the plugin, one must have a working instance of Kafka Connect connected to a Kafka Broker. See also 
 [Confluent's](https://www.confluent.io/product/confluent-platform/) documentation for easily setting this up.
 
